@@ -1,0 +1,8 @@
+R:\TimberlineLooper\TimberlineLooper\bin\Release\TimberlineLooper.exe.config
+R:\TimberlineLooper\TimberlineLooper\bin\Release\TimberlineLooper.exe
+R:\TimberlineLooper\TimberlineLooper\bin\Release\TimberlineLooper.pdb
+R:\TimberlineLooper\TimberlineLooper\obj\Release\TimberlineLooper.TimberlineLooper_Main.resources
+R:\TimberlineLooper\TimberlineLooper\obj\Release\TimberlineLooper.Properties.Resources.resources
+R:\TimberlineLooper\TimberlineLooper\obj\Release\TimberlineLooper.csproj.GenerateResource.Cache
+R:\TimberlineLooper\TimberlineLooper\obj\Release\TimberlineLooper.exe
+R:\TimberlineLooper\TimberlineLooper\obj\Release\TimberlineLooper.pdb
